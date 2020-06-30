@@ -28,7 +28,3 @@ def isValidChessBoard(board):
             return False
 
     return True
-
-print(isValidChessBoard({'1h': 'bking', '6c': 'wqueen', '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking','9a':'bpawn'}))
-print(isValidChessBoard({'1h': 'bking', '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking','8a':'bpawn'}))
-print(isValidChessBoard({'1h': 'bking', '6c': 'wqueen', '6e': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking','8a':'bpawn'}))
