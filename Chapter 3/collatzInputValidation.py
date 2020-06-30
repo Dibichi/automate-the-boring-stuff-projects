@@ -16,7 +16,7 @@ while True:
         userNum = input('Enter a number\n')
         numCollatz = collatz(int(userNum))
         break
-    except:
+    except ValueError:
         print('Input must be a number')
 
 while numCollatz != 1:
