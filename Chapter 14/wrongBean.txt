@@ -1,0 +1,11 @@
+>>> import ezsheets
+>>> ss = ezsheets.Spreadsheet('1jDZEdvSIh4TmZxccyy0ZXrH-ELlrwq8_YYiZrEOB4jg')
+>>> sheet = ss[0]
+>>> for rows in range(2,sheet.rowCount):
+	if int(sheet.getRow(rows)[0]) * int(sheet.getRow(rows)[1]) == int(sheet.getRow(rows)[2]):
+		continue
+	else:
+		print('The row %s has the wrong value' % rows)
+
+		
+The row 14399 has the wrong value
