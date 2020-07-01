@@ -1,2 +1,2 @@
-# automate-the-boring-stuff-projects
-A repository for all the projects I have done for the book 'Automate the Boring Stuff' by Al Sweigart.
+# Automate-the-Boring-Stuff-Projects
+***A repository for my solutions to the practice projects from [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](http://alsweigart.com/).***
