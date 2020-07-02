@@ -1,4 +1,4 @@
-#! python 3
+#! python3
 #imageDownloader - downloads images based on inputted term on Imgur
 import requests, webbrowser, bs4, os
 import pyinputplus as pyip
