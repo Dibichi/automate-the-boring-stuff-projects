@@ -1,4 +1,4 @@
-# Write your code here :-)
+#! python3
 #Fix with debugger
 import random
 '''guess = ''
