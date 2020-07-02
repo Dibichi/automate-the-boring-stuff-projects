@@ -1,7 +1,7 @@
 #! python3
 #forms.py - stores the emails found in the Google Sheet created by Google Forms
 import ezsheets
-googleSheet = input('What is the id of the Google Sheet')
+googleSheet = input('What is the id of the Google Sheet?\n')
 ss = ezsheets.Spreadsheet(googleSheet)
 sheet = ss[0]
 
