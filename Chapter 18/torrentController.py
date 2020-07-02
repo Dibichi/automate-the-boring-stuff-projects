@@ -4,7 +4,7 @@
 #Will download any torrent link as long as email subject is 'torrents'
 #and torrents are seperated by a new line
 
-#There may be issues for emailing when torrent program is closed
+#There may be issues for emailing when torrent program is closes
 
 '''
 High Level
