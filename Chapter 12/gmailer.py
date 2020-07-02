@@ -1,5 +1,5 @@
 #! python3
-#emailer.py - sends emails with the first argument being the email to send to and second is the msg
+#gmailer.py - sends gmails with the first argument being the gmail to send to and second is the msg
 import sys, re
 import time
 from selenium import webdriver
