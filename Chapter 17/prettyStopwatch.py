@@ -1,4 +1,4 @@
-# Write your code here :-)
+#! python3
 import time, pyperclip
 #improvedStopwatch.py
 #Display prrogram's instructions
